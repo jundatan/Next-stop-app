@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102642962404",
+    "project_id": "nextstopwhen-dbd08",
+    "storage_bucket": "nextstopwhen-dbd08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102642962404:android:64392745715ed6971e81f1",
+        "android_client_info": {
+          "package_name": "com.example.mycurrentlocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102642962404-it889nkqup319d0h91eo18fd1475c926.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKUc6gHkC8CWyDcZT1fgB2Iz386KJkybo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102642962404-it889nkqup319d0h91eo18fd1475c926.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
